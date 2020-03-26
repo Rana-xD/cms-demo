@@ -15,3 +15,6 @@
         @endif
     </li>
 @endforeach
+    <li style="right: 0; position: absolute;">
+        <a href="/auth/login" >Login</a>
+    </li>

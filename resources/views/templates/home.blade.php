@@ -1,5 +1,5 @@
 <div class="row">
-    <div class="col-md-12" style="background-image: url({{ theme('images/homepage.jpg') }}); background-size: 100%; height: 320px"></div>
+    {{-- <div class="col-md-12" style="background-image: url({{ theme('images/homepage.jpg') }}); background-size: 100%; height: 320px"></div> --}}
 </div>
 
 <div class="row">
